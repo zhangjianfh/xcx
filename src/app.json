@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/invites/main",
+    "pages/sucrel/main",
+    "pages/actinfo/main",
+    "pages/release/main",
+    "pages/addin/main",
+    "pages/friend/main",
+    "pages/signup/main",
+    "pages/my/main",
+    "pages/theme/main",
+    "pages/test/main",
+    "pages/msg/main",
+    "pages/download/main",
+    "pages/index/main"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于获取您周边约局信息"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "dark",
+    "onReachBottomDistance": 0,
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "我约Lite",
+    "backgroundColor": "#eeeeee",
+    "navigationBarTextStyle": "black"
+  }
+}
+
